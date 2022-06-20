@@ -1,0 +1,8 @@
+# IDEs
+.idea
+
+# Jupyter notebook metadata
+.ipynb_checkpoints
+
+# Example run output
+output
