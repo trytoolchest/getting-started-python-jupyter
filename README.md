@@ -22,7 +22,7 @@ Sign up for a free key, and replace the call to `toolchest.set_key("YOUR_KEY_HER
 ### Installing Jupyter
 
 If you don't already have Toolchest installed locally, follow the
-[Jupyter install gyuide](https://jupyter.org/install).
+[Jupyter install guide](https://jupyter.org/install).
 
 ## Running
 
